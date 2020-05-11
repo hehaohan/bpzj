@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "维护"
 
-- name: "Contact"
+- name: "联系我"
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
+- name: "RSS订阅"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
+- name: "Atom订阅"
   url: "/atom.xml"
   title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
+- name: "sitemap"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
