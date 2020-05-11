@@ -16,8 +16,7 @@ slogan: '一时白嫖一时爽，一直白嫖一直爽。专注白嫖100年'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»白嫖之家« 是一个专注收集整理免费互联网资源的网站'
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-# credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :) -------- credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 credits: '本网站由Jason He负责运营维护，资源均采集于网络，仅供学习和参考使用，如有侵权请联系我。'
 
 # Main author of the website
@@ -26,7 +25,7 @@ author: Jason He
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://hehaohan.gitee.io'
+url: 'https://blog.hehaohan.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -39,7 +38,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://hehaohan.gitee.io/images/'
+urlimg: 'https://blog.hehaohan.com/images/'
 
 
 # Logo size is 600x80 pixels
